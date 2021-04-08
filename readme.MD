@@ -32,6 +32,7 @@ Because of what is written under 2, var-names need to have a certain string in t
 
 If you do not include this, it will NOT work, not even a bit. Because it does not compute to a hex color, Beaver Builder rules will discard the setting altogether.
 
+---
 ## 4. Modules and settings that seem to work
 Here's a list of modules and the properties that work with the CSS variables.
 
@@ -59,6 +60,10 @@ Tabs | Background Color, Border Color, Text Color (label), Active Color (label),
 Pricing Table | Box Foreground, Accent Color, Accent Text Color | Box Border
 
 Unlisted modules are not tested yet.
+
+---
+# 5. The Connector
+You can find the connector listed under "Toolbox > Toolbox CSS var"
 
 ---
 ## Version history
