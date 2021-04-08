@@ -51,6 +51,11 @@ class Connector {
 		\FLPageData::add_post_property_settings_fields(
 			'toolbox_css_var',
 			array(
+				'readthisfirst' => array(
+					'type'    => 'raw',
+					'label'   => 'Notice',
+					'content' => '<p>Do not forget that you can use var names that have \'rgb\' in their name only.</p>',
+				),
 				'var_name' => array(
 					'type'          => 'text',
 					'label'         => __( 'Variable name', 'toolbox' ),
