@@ -61,6 +61,17 @@ Pricing Table | Box Foreground, Accent Color, Accent Text Color | Box Border
 
 Unlisted modules are not tested yet.
 
+## Row settings
+
+You can also use the following Row and Column settings:
+
+ | | |
+|---:|---|
+Row | Color, Link Color, Link Hover Color, Heading Color, Background Color | -
+Column | Color, Link Color, Link Hover Color, Heading Color, Background Color | -
+
+That means that once you've set these, you can drag in Heading Modules, Texteditor Modules and more and the colors set in the row or column will be used.
+
 ---
 # 5. The Connector
 You can find the connector listed under "Toolbox > Toolbox CSS var"
